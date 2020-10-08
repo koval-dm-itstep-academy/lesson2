@@ -2,7 +2,7 @@
 
 using namespace std;
 
-void main()
+int main()
 {
     cout << "Stalin watches u" << endl;
     cout << "Trotsky watces ledorub" << endl;
@@ -12,5 +12,5 @@ void main()
     cin >> a;
     cout << a << endl;
 
-    return;
+    return 0;
 }
