@@ -3,7 +3,7 @@
 using namespace std;
 
 void main() {
-    cout << "stalin watches u" << endl;
+    cout << "Stalin watches u" << endl;
     cout << "Polska strong" << endl;
     return;
 }
