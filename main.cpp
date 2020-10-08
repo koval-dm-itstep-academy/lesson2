@@ -6,6 +6,7 @@ void main() {
     cout << "Stalin watches u" << endl;
     cout << "Trotsky watces ledorub" << endl;
     cout << "Polska strong" << endl;
+    cout << "Ni shagu nazad" << endl;
 <<<<<<< HEAD
     int a;
     cin>>a;
