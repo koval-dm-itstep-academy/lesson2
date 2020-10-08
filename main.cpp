@@ -8,6 +8,7 @@ int main()
     cout << "Trotsky watces ledorub" << endl;
     cout << "Polska strong" << endl;
     cout << "Ni shagu nazad" << endl;
+    cout << "Root"<<endl;
 
     int a;
     cin >> a;
