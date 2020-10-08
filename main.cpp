@@ -1,5 +1,5 @@
 #include <iostream>
 
 void main() {
-    return;
+    cout << "Polska strong" << endl;
 }
