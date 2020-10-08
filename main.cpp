@@ -9,7 +9,8 @@ int main()
     cout << "Polska strong" << endl;
     cout << "Ni shagu nazad" << endl;
     cout << "Root"<<endl;
-
+    cout << "smt" << endl;
+    
     int a;
     cin >> a;
     cout << a << endl;
