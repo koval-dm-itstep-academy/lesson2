@@ -8,7 +8,7 @@ int main()
     cout << "Trotsky watces ledorub" << endl;
     cout << "Polska strong" << endl;
     cout << "Ni shagu nazad" << endl;
-
+    cout << "smt" << endl;
     int a;
     cin >> a;
     cout << a << endl;
