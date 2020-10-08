@@ -14,5 +14,11 @@ int main()
     cin >> a;
     cout << a << endl;
 
+    int f = 1;
+    int u = 4;
+    int r = 8;
+    int e = 8;
+    int r;
+
     return 0;
 }
