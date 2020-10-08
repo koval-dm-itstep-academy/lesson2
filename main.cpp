@@ -10,7 +10,8 @@ int main()
     cout << "Ni shagu nazad" << endl;
     cout << "Root"<<endl;
     cout << "smt" << endl;
-    
+    cout << "123" << endl;
+
     int a;
     cin >> a;
     cout << a << endl;
@@ -22,4 +23,5 @@ int main()
     int r;
 
     return 0;
+
 }
