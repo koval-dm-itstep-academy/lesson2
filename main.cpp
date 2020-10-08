@@ -20,6 +20,9 @@ int main()
     int u = 4;
     int r = 8;
     int e = 8;
+    int r;
+
+    cout << "А когда мы классы учить начнем?" << endl;
 
     return 0;
 }
