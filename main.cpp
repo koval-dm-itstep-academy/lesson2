@@ -1,6 +1,9 @@
 #include <iostream>
 
+using namespace std;
+
 void main() {
-    std::cout << "stalin watches u" << std::endl;
+    cout << "stalin watches u" << endl;
+    cout << "Polska strong" << endl;
     return;
 }
