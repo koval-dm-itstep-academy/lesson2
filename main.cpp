@@ -2,14 +2,15 @@
 
 using namespace std;
 
-void main() {
+void main()
+{
     cout << "Stalin watches u" << endl;
     cout << "Trotsky watces ledorub" << endl;
     cout << "Polska strong" << endl;
 
     int a;
-    cin>>a;
-    cout<<a<<endl;
+    cin >> a;
+    cout << a << endl;
 
     return;
 }
