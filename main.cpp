@@ -8,7 +8,7 @@ int main()
     cout << "Trotsky watces ledorub" << endl;
     cout << "Polska strong" << endl;
     cout << "Ni shagu nazad" << endl;
-    cout << "Root"<<endl;
+    cout << "Root" << endl;
     cout << "smt" << endl;
     cout << "123" << endl;
 
@@ -20,8 +20,6 @@ int main()
     int u = 4;
     int r = 8;
     int e = 8;
-    int r;
 
     return 0;
-
 }
